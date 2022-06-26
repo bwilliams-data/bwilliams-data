@@ -1,5 +1,5 @@
-- I have 8 years experience specializing in data, investing, and finance.
-- @bwilliams-data
+- Github page of @bwilliams-data focusing on R, Google Trends, and Financial Analysis
+- #rstats
 
 
 <!---
