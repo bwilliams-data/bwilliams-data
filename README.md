@@ -1,4 +1,4 @@
-- Github page of @bwilliams-data focusing on R, Google Trends, and Financial Analysis
+- Github page of @bwilliams-data focusing on Python, R, Machine Learning, AI, Google Trends, and Financial Analysis
 - #rstats
 
 
